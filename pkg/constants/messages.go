@@ -76,7 +76,7 @@ const (
 	KeyEBPFLogReceived				MessageKey = "EBPF_LOG_RECEIVED"
 	//		internal/environments/docker/
 	KeyHackerExitCellDestroyed		MessageKey = "HACKER_EXIT_CELL_DESTROYED"
-
+		// deneme
 
 	// Hacker trying
 	//		internal/protocols/ssh/:
